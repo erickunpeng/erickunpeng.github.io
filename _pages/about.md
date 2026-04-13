@@ -8,51 +8,61 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+-->
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an incoming CS PhD student at [Rice University](https://rice.edu/), advised by Prof. [Andrew H. Song](https://andrewsong90.github.io/). I received my B.S. in Computer Science from the [University of Washington](https://www.cs.washington.edu/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+At UW, I was advised by Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/) and mentored by [Hanwen Xu](https://hanwenxuthu.github.io/). I also had the pleasure of collaborating with Prof. [Lucy Lu Wang](https://llwang.net/), mentored by [Donghoon Shin](https://donghoon.io/) and [Bingbing Wen](https://bbwen.github.io/).
+
+My research interests lie at the intersection of AI and medicine, with a focus on **computational pathology**, **AI for healthcare**, **multimodal AI**, and **reasoning LLMs**. I am broadly interested in building intelligent systems that can understand and reason over complex biomedical data to advance clinical discovery and patient care.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;🎉 I will be joining [Rice University](https://cs.rice.edu/) as a PhD student in Computer Science in Fall 2026!
+- *2026.03*: &nbsp;🎓 I graduated with a B.S. in Computer Science from the [University of Washington](https://www.cs.washington.edu/).
+- *2025.11*: &nbsp;📄 Our paper [PathReasoning](https://arxiv.org/abs/2511.21902) is now available on arXiv! (Extended version of our CVPR workshop oral.)
+- *2025.06*: &nbsp;🏆 Our paper *GigaVisualReasoning* received an **Oral Presentation** at the [CVPR 2025 MMFM-BIOMED Workshop](https://sites.google.com/view/mmfm-biomed-2025/)! ([Poster](https://drive.google.com/file/d/1NaKN7QNoh6SL6VENGPhy4TFq-nTBl7JY/view?usp=sharing))
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/ROIAgent_v5.png' alt="PathReasoning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[PathReasoning: A Multimodal Reasoning Agent for Query-Based ROI Navigation on Whole-Slide Images](https://arxiv.org/abs/2511.21902)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Kunpeng Zhang**, Hanwen Xu, Sheng Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A multimodal reasoning agent that navigates gigapixel pathology slides to identify diagnostically relevant regions, guided by clinical queries and interpretable reasoning chains.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+<!-- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.08 - present*, Ph.D. in Computer Science, [Rice University](https://cs.rice.edu/), Houston, TX.
+- *2022.09 - 2026.06*, B.S. in Computer Science, [University of Washington](https://www.cs.washington.edu/), Seattle, WA.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.06*, Oral Presentation at CVPR 2025 MMFM-Biomed Workshop, [slide](https://drive.google.com/file/d/1E3WDpm1cH5WNwyOop75ehb1okb-cpm5-/view?usp=sharing)
 
+# 🖥️ Teaching
+- *2025.09 - 2025.12*, CSE 415: Introduction to AI, UW.
+- *2025.01 - 2025.03*, CSE 473: Introduction to AI, UW.
+
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
