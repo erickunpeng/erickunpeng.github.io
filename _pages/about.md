@@ -77,4 +77,4 @@ My research interests lie at the intersection of AI and medicine, with a focus o
 
 # 🏸 Misc
 
-Outside of research, I enjoy playing badminton. I competed in the [2025 WA Super Smash DMS tournament](https://alittlemoresupport.org/wp-content/uploads/draw/11/DMS.html) and finished as **runner-up**.
+- Outside of research, I enjoy playing badminton. I competed in the [2025 WA Super Smash DMS tournament](https://alittlemoresupport.org/wp-content/uploads/draw/11/DMS.html) and finished as **runner-up**.
