@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming CS PhD student at [Rice University](https://rice.edu/), advised by Prof. [Andrew H. Song](https://andrewsong90.github.io/). I received my B.S. in Computer Science from the [University of Washington](https://www.cs.washington.edu/).
+I am an incoming PhD student in the [Department of Computer Science](https://cs.rice.edu/) at [Rice University](https://rice.edu/), advised by Prof. [Andrew H. Song](https://andrewsong90.github.io/). I received my B.S. in Computer Science from the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/).
 
 At UW, I was advised by Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/) and mentored by [Hanwen Xu](https://hanwenxuthu.github.io/). I also had the pleasure of collaborating with Prof. [Lucy Lu Wang](https://llwang.net/), mentored by [Donghoon Shin](https://donghoon.io/) and [Bingbing Wen](https://bbwen.github.io/).
 
