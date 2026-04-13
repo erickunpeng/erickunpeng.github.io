@@ -32,7 +32,7 @@ My research interests lie at the intersection of AI and medicine, with a focus o
 - *2025.11*: &nbsp;📄 Our paper [PathReasoning](https://arxiv.org/abs/2511.21902) is now available on arXiv! (Extended version of our CVPR workshop oral.)
 - *2025.06*: &nbsp;🏆 Our paper *GigaVisualReasoning* received an **Oral Presentation** at the [CVPR 2025 MMFM-BIOMED Workshop](https://sites.google.com/view/mmfm-biomed-2025/)! ([Poster](https://drive.google.com/file/d/1NaKN7QNoh6SL6VENGPhy4TFq-nTBl7JY/view?usp=sharing))
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/ROIAgent_v5.png' alt="PathReasoning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,7 +58,7 @@ My research interests lie at the intersection of AI and medicine, with a focus o
 # 💬 Invited Talks
 - *2025.06*, Oral Presentation at CVPR 2025 MMFM-Biomed Workshop, [slide](https://drive.google.com/file/d/1E3WDpm1cH5WNwyOop75ehb1okb-cpm5-/view?usp=sharing)
 
-# 🖥️ Teaching
+# 💻 Teaching
 - *2025.09 - 2025.12*, CSE 415: Introduction to AI, UW.
 - *2025.01 - 2025.03*, CSE 473: Introduction to AI, UW.
 
