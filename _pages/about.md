@@ -60,7 +60,7 @@ My research interests lie at the intersection of AI and medicine, with a focus o
 <span class='anchor' id='invited-talks'></span>
 
 # 💬 Invited Talks
-- *2025.06*, Oral Presentation at CVPR 2025 MMFM-Biomed Workshop, [slide](https://drive.google.com/file/d/1E3WDpm1cH5WNwyOop75ehb1okb-cpm5-/view?usp=sharing)
+- *2025.06*, Oral Presentation at CVPR 2025 MMFM-BIOMED Workshop, [slide](https://drive.google.com/file/d/1E3WDpm1cH5WNwyOop75ehb1okb-cpm5-/view?usp=sharing)
 
 <span class='anchor' id='teaching'></span>
 
@@ -72,3 +72,9 @@ My research interests lie at the intersection of AI and medicine, with a focus o
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
+
+<span class='anchor' id='misc'></span>
+
+# 🏸 Misc
+
+Outside of research, I enjoy playing badminton. I competed in the [2025 WA Super Smash DMS tournament](https://alittlemoresupport.org/wp-content/uploads/draw/11/DMS.html) and finished as **runner-up**.
