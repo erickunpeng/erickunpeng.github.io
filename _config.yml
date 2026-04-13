@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kunpeng (Eric) Zhang"
-description              : "Incoming CS PhD student at Rice University. Research interests: computational pathology, AI for healthcare, multimodal AI, and reasoning LLMs."
+description              : "Incoming CS PhD student at Rice University"
 repository               : "erickunpeng/erickunpeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kunpengzhang2004/"
+  linkedin         : "kunpengzhang2004"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
